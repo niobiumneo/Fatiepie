@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **n24ferna@uwaterloo.ca**
 
-- 📄 Know about my experiences [https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:f7441144-3d21-4b9c-9fba-cca73952479f](https://documentcloud.adobe.com/link/review?uri=urn:aaid:scds:US:f7441144-3d21-4b9c-9fba-cca73952479f)
-
 - ⚡ Fun fact **I have a crazy amount of Mountain Dew while debugging my code :3**
 
 <h3 align="left">Connect with me:</h3>
