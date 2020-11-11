@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/fatiepie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fatiepie" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/neil fernandes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neil fernandes" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/n24ferna/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="neil fernandes" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/neilfabregas" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="neilfabregas" height="30" width="40" /></a>
 </p>
 
