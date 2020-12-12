@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neil Fernandes</h1>
 <h3 align="center">Autonomous vehicles and systems enthusiast | Mechatronics engineering student at the University of Waterloo</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fatiepie&label=Profile%20views&color=0e75b6&style=flat" alt="fatiepie" /> </p>
+
 
 - 🔭 I’m currently working on **Autonomous Vehicle perception with the UW Robotics Team**
 
