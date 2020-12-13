@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, AI and Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fatiepie](https://github.com/Fatiepie)
+- 👨‍💻 All of my projects are available at [my website!](https://bit.ly/37FcS7H)
 
 - 💬 Ask me about **C suite, Python automation, Perception tools and ROS**
 
