@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **Autonomous Vehicle perception with the UW Robotics Team**
 
-- 🌱 I’m currently learning **HTML, CSS, AI and Machine Learning**
+- 🌱 I’m currently learning **AI and ML concepts and tools**
 
 - 👨‍💻 All of my projects are available at [my website!](https://bit.ly/37FcS7H)
 
-- 💬 Ask me about **C suite, Python automation, Perception tools and ROS**
+- 💬 Ask me about **C suite, Python automation, Perception tools, ROS and anime!**
 
 - 📫 How to reach me **n24ferna@uwaterloo.ca**
 
