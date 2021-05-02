@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Autonomous Vehicle perception with the UW Robotics Team**
+- 🔭 I’m currently working on **Computer Vision @ UWARG | Electrical Team Member @ UW Formula Electric**
 
 - 🌱 I’m currently learning **AI and ML concepts and tools**
 
