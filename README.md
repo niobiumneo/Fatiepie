@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [my website!](https://bit.ly/37FcS7H)
 
-- 💬 Ask me about **C suite, Python automation, Perception tools, ROS and anime!**
+- 💬 Ask me about **C suite, Python automation, Perception tools and robotic systems**
 
 - 📫 How to reach me **n24ferna@uwaterloo.ca**
 
