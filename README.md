@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **MPC Research @ WATonomous | Electrical Team Member @ UW Formula Electric**
+- 🔭 I’m currently working on **Electrical Team Member @ UW Formula Electric**
 
 - 🌱 I’m currently learning **AI and ML concepts and tools**
 
